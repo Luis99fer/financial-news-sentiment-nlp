@@ -148,39 +148,6 @@ The pipeline consists of the following stages:
 
 ---
 
-## Repository Structure
-
-```text
-financial-news-sentiment-nlp/
-│
-├── README.md
-├── requirements.txt
-├── .gitignore
-├── LICENSE
-│
-├── notebooks/
-│   └── financial_sentiment_ruroberta_kaggle.ipynb
-│
-├── data/
-│   └── README.md
-│
-├── docs/
-│   ├── project_overview.md
-│   ├── model_pipeline.md
-│   └── kaggle_competition_summary.md
-│
-├── reports/
-│   ├── results_summary.md
-│   └── leaderboard_result.png
-│
-└── assets/
-    ├── project_banner.png
-    ├── pipeline_diagram.png
-    └── model_architecture.png
-```
-
----
-
 ## Dataset
 
 The dataset is provided by the Kaggle competition:
